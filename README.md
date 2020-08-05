@@ -2,6 +2,8 @@
 
 This is a simple Vue project which connects to the JSONPlaceholder API and uses it to present a list of employees (name and email). Users can add, edit, or delete employees from the list. It was built using instructions from [this tutorial](https://www.taniarascia.com/getting-started-with-vue/).
 
+You can try the application here: [Employee Database](https://camdecoster.github.io/employee-database/).
+
 ## Project setup
 
 ```
